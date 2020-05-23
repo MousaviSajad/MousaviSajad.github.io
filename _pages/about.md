@@ -10,6 +10,34 @@ redirect_from:
 
 I am a research fellow in Biomedical Informatics, Harvard Medical School. I work with [Dr. Paul Avillach](https://dbmi.hms.harvard.edu/people/paul-avillach) to apply machine learning-based methods to clinical and genomic datasets to discover subgroups of diseases. I received my Ph. D. in Informatics and Computing from Northern Arizona University under the supervision of [Dr. Fatemeh Afghah](https://profile.directory.nau.edu/person/fa334). My doctoral research focused on developing machine learning and deep learning techniques to detect/predict different medical conditions, especially Atrial Fibrillation (AFib) from physiological signals such as ECG, EEG, APP, PPG signals. 
 
+Education
+======
+* Postdoc Researcher – Harvard Medical School, 2020-Present.
+* Ph.D in Informatics and Computing, Northern Arizona University, 2020
+* M.Eng. in Information Technology, National University of Ireland, Galway, 2017
+* M.Sc. in Computer Engineering, Iran University of Science and Technology, 2012
+* B.Sc. in Computer Engineering, University of Zanjan, 2010
+
+Work Experience
+======
+* **UC San Diego Health, Dept. of Biomedical Informatics**, San Diego, CA, USA.
+  * Research Intern: Bioinformatics Programmer II, June 2019 - Aug. 2019 <br/>
+   Time series analysis and Machine learning: Worked on the design and development of machine learning
+   models for early prediction of life-threatening conditions such as Sepsis and Delirium.<br/>
+   Advisor: [Dr. Shamim Nemati](http://nematilab.info/people/shamim/index.html)
+   
+ * **[FotoNation](https://www.fotonation.com/)**, Galway, Ireland.
+   * Research Intern, May 2016 - Sep.2016; May 2017 - Aug. 2017 <br/>
+   Machine learning: Worked in deep learning, reinforcement learning, and computer vision fields to design and
+   develop algorithms for object detection, face detection/recognition. <br/>
+   Advisor: [Pawel Filipczuk](https://www.linkedin.com/in/pawe%C5%82-filipczuk-15b4992b) and [Gabriel Costache](https://ie.linkedin.com/in/gabico)  
+
+* **UC San Diego Health, Dept. of Biomedical Informatics**, San Diego, CA, USA.
+  * Research Intern: Bioinformatics Programmer II, June 2019 - Aug. 2019 <br/>
+   Time series analysis and Machine learning: Worked on the design and development of machine learning
+   models for early prediction of life-threatening conditions such as Sepsis and Delirium.<br/>
+   Advisor: [Dr. Shamim Nemati](http://nematilab.info/people/shamim/index.html)
+   
 <!--- [academicpages template]
 (https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
