@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [[Download My Latest Resume in PDF here]](http://MousaviSajad.github.io/files/Sajad_Mousavi_CV.pdf)
+
 <!---
 Education
 ======
@@ -45,12 +46,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!---Talks
+
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  --->
+
   
 Teaching
 ======
