@@ -9,6 +9,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Journals
 ==========
+* Shamsoshoara, A., Afghah, F., Razi, A.,  **Mousavi S.**, Ashdown, J. and Turk, K., 2020. An Autonomous Spectrum Management Scheme for Unmanned Aerial Vehicle Networks in Disaster Relief Operations. IEEE Access, 8, pp.58064-58079. [[link](https://ieeexplore.ieee.org/abstract/document/9046033)]
+* **Mousavi S.**, Afghah, F., & Acharya, U. R. (2020). HAN-ECG: An Interpretable Atrial Fibrillation
+Detection Model Using Hierarchical Attention Networks. arXiv preprint arXiv:2002.05262. [[Preprint](https://arxiv.org/pdf/2002.05262.pdf)]
 * **Mousavi S.**, Fotoohinasab A., Afghah F. (2020) Single-modal and multi-modal false arrhythmia alarm
 reduction using attention-based convolutional and recurrent neural networks. PLoS ONE Journal 15(1):
 e0226990. https://doi.org/10.1371/journal.pone.0226990. [[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226990)] <br />
