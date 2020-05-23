@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alireza Shamsoshoara"
+title                    : "Sajad Mousavi"
 title_separator          : "-"
-name                     : &name "Alireza Shamsoshoara"
+name                     : &name "Sajad Mousavi"
 description              : &description "personal description"
-url                      : https://AlirezaShamsoshoara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://MousaviSajad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AlirezaShamsoshoara.github.io"
+repository               : "MousaviSajad.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alireza Shamsoshoara"
+  name             : "Sajad Mousavi"
   avatar           : "IMG_8960.jpg"
-  bio              : "Research and Teaching Assistant at Northern Arizona University"
-  location         : "Flagstaff, Arizona"
+  bio              : "Research Fellow in Biomedical Informatics, Harvard Medical School"
+  location         : "Boston, Massachusetts"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=1IDrN5QAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=f1So9sUAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Alireza_Shamsoshoara"
+  researchgate     :  "https://www.researchgate.net/profile/Sajad_Mousavi6"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "AlirezaShamsoshoara"
+  github           : # "MousaviSajad"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "alireza-shamsoshoara/"
+  linkedin         : "sajad-mousavi-96024153/"
   orcid            : # "https://orcid.org/0000-0003-4087-8304"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "a_shamsoshoara"
+  twitter          : #"a_shamsoshoara"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Boston # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
