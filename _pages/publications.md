@@ -60,6 +60,10 @@ look in interactive environments using deep recurrent q-learning. arXiv preprint
 * **Mousavi S. S.**, Schukat, M., & Howley, E. (2016, September). Deep reinforcement learning: An
 overview. In Proceedings of SAI Intelligent Systems Conference (pp. 426-440). Springer, Cham. [[link](https://arxiv.org/pdf/1806.08894.pdf)] <br />
 
+Patents
+========
+* F. Afghah, **S. Mousavi**, ”Patient ECG Heartbeat Classification for Arrhythmia and AtrialFibrillation Detection”, Patent Pending, App.  No.:  62801881, Jan.  2019.
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
