@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a Ph.D. student in Informatics and Computing under supervison of [Dr. Fatemeh Afghah](https://profile.directory.nau.edu/person/fa334) at Northern Arizona University. I received my B.Sc. and M.Sc in Electrical engineering in 2012 and 2015 respectively. Also, I got another M.Sc. in Informatics in 2019.
-
-My research area focuses on Unmanned Aerial Vehicle(UAV) and Internet of Thing(IoT) networks and Dynamic Spectrum Assignment(DSA) for these kind of networks. In my research, I target machine learning algorithms such as Reinforcement Learning(RL) to address different problems such as localizations, task allocation, scheduling and so on. 
-Also, I'm working on Software Defined Radio(SDR)s. My goal is to use a small size SDR, [Ettus B205-mini-i](https://www.ettus.com/all-products/usrp-b205mini-i/), on the drone and evaluate our simulated algorithms in the real-world scenarios.
-I'm also familiar with microcontrollers, Raspberry Pi, and Nvidia Jetson Nano since I work with them as a hobby. 
-
+I am a research fellow in Biomedical Informatics, Harvard Medical School. I work with [Dr. Paul Avillach] https://dbmi.hms.harvard.edu/people/paul-avillach to apply machine learning-based methods to clinical and genomic datasets to discover subgroups of diseases. I received my Ph. D. in Informatics and Computing from Northern Arizona University under the supervision of [Dr. Fatemeh Afghah] (https://profile.directory.nau.edu/person/fa334). My doctoral research focused on developing machine learning and deep learning techniques to detect/predict different medical conditions from physiological signals such as ECG, EEG, APP, PPG signals.
 <!--- [academicpages template]
 (https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
