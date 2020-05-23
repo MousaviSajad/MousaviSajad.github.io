@@ -30,33 +30,32 @@ and Flexibility. Iranian Journal of Medical Informatics, IJMI. 1(3), 39-44. [[li
 
 Conferences 
 ==========
-Ghazanfari, B., Afghah, F., Najarian, K., **Mousavi S.**, Gryak, J., Todd, J., (July 2019). An Unsupervised
+* Ghazanfari, B., Afghah, F., Najarian, K., **Mousavi S.**, Gryak, J., Todd, J., (July 2019). An Unsupervised
 Feature Learning Approach to Reduce False Alarm Rate in ICUs, 41th Annual International Conference of
-the IEEE Engineering in Medicine and Biology Society (EMBC’19). <br />
-**Mousavi S.**, & Afghah, F. (2019). Inter-and intra-patient ECG heartbeat classification for arrhythmia
+the IEEE Engineering in Medicine and Biology Society (EMBC’19). [[link](https://ieeexplore.ieee.org/abstract/document/8857034?casa_token=XK_H3MGftsUAAAAA:HS7Z4crGI1XisLx4JX233DUzyoL4du6O2fbA2hsvt7IRa7goiVk7H3cY8s7erG51ib5zdqV3lrs)] <br />
+* **Mousavi S.**, & Afghah, F. (2019). Inter-and intra-patient ECG heartbeat classification for arrhythmia
 detection: a sequence to sequence deep learning approach. In ICASSP 2019-2019 IEEE International
-Conference on Acoustics, Speech and Signal Processing (ICASSP’19), pp. 1308-1312. <br />
-**Mousavi S.**, Afghah, F., Razi, A., & Acharya, U. R. (2019). ECGNET: Learning where to attend for
+Conference on Acoustics, Speech and Signal Processing (ICASSP’19), pp. 1308-1312. [[link](https://ieeexplore.ieee.org/document/8683140)]<br />
+* **Mousavi S.**, Afghah, F., Razi, A., & Acharya, U. R. (2019). ECGNET: Learning where to attend for
 detection of atrial fibrillation with deep visual attention. In 2019 IEEE EMBS International Conference on
-Biomedical & Health Informatics (BHI’19). IEEE. <br />
+Biomedical & Health Informatics (BHI’19). IEEE. [[link](https://ieeexplore.ieee.org/document/8834637)] <br />
 * **Mousavi S.**, Afghah, F., Ashdown, J. D., & Turck, K. (April 2018). Leader-follower based Coalition
 Formation in Large-scale UAV Networks, A Quantum Evolutionary Approach, INFOCOM, Workshop on
-Wireless Sensor, Robot, and UAV Networks (Best Paper Recognition). <br />
+Wireless Sensor, Robot, and UAV Networks (Best Paper Recognition). [[link](https://ieeexplore.ieee.org/document/8406915)] <br />
 Zaeri-Amirani, M., Afghah, F.,**Mousavi S.** (July 2018). A Feature Selection Method Based on Shapley
 Value to False Alarm Reduction in ICUs, A Genetic-Algorithm Approach, 40th Annual International
-Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’18). <br />
-
+Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’18). [[link](https://ieeexplore.ieee.org/document/8512266)] <br />
 * **Mousavi S. S.**, Schukat, M. & Howley, E. (2017). Traffic Light Control Using Deep Reinforcement
-Learning Agent. NUIG UL 7th Postgraduate Research Day 2017. <br />
+Learning Agent. NUIG UL 7th Postgraduate Research Day 2017. [[link](https://www.researchgate.net/profile/Sajad_Mousavi6/publication/332220597_Traffic_Light_Control_Using_Deep_Reinforcement_Learning_Agent/links/5ca6ca5c92851c64bd50bd45/Traffic-Light-Control-Using-Deep-Reinforcement-Learning-Agent.pdf)] <br />
 **Mousavi S. S.**, Schukat, M., Howley, E., & Mannion, P. (2017). Applying Q(λ)-learning in Deep
 Reinforcement Learning to Play Atari Games. Adaptive Learning Agents (ALA) Workshop at Sixteenth
-International Conference on Autonomous Agents and Multiagent Systems (AAMAS’17). <br />
+International Conference on Autonomous Agents and Multiagent Systems (AAMAS’17). [[link](http://ala2017.it.nuigalway.ie/papers/ALA2017_Mousavi.pdf)] <br />
 **Mousavi S. S.**., Schukat, M. & Howley, E. (2016). Deep Learning Methodologies in Combination with
-Reinforcement Learning Techniques. NUIG UL 6th Postgraduate Research Day 2016.<br />
+Reinforcement Learning Techniques. NUIG UL 6th Postgraduate Research Day 2016. [[link](https://www.researchgate.net/profile/Sajad_Mousavi6/publication/332220750_Deep_Learning_Methodologies_in_Combination_with_Reinforcement_Learning_Techniques/links/5ca6c8fc92851c64bd50bd17/Deep-Learning-Methodologies-in-Combination-with-Reinforcement-Learning-Techniques.pdf)]<br />
 **Mousavi S. S.**, Schukat, M., Howley, E., Borji, A., & Mozayani, N. (2016). Learning to predict where to
-look in interactive environments using deep recurrent q-learning. arXiv preprint arXiv:1612.05753. <br />
+look in interactive environments using deep recurrent q-learning. arXiv preprint arXiv:1612.05753. [[link](https://arxiv.org/pdf/1612.05753.pdf)] <br />
 **Mousavi S. S.**, Schukat, M., & Howley, E. (2016, September). Deep reinforcement learning: An
-overview. In Proceedings of SAI Intelligent Systems Conference (pp. 426-440). Springer, Cham. <br />
+overview. In Proceedings of SAI Intelligent Systems Conference (pp. 426-440). Springer, Cham. [[link](https://arxiv.org/pdf/1806.08894.pdf)] <br />
 
 
 {% if author.googlescholar %}
