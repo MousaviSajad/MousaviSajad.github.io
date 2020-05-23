@@ -42,19 +42,19 @@ Biomedical & Health Informatics (BHI’19). IEEE. [[link](https://ieeexplore.iee
 * **Mousavi S.**, Afghah, F., Ashdown, J. D., & Turck, K. (April 2018). Leader-follower based Coalition
 Formation in Large-scale UAV Networks, A Quantum Evolutionary Approach, INFOCOM, Workshop on
 Wireless Sensor, Robot, and UAV Networks (Best Paper Recognition). [[link](https://ieeexplore.ieee.org/document/8406915)] <br />
-Zaeri-Amirani, M., Afghah, F.,**Mousavi S.** (July 2018). A Feature Selection Method Based on Shapley
+* Zaeri-Amirani, M., Afghah, F.,**Mousavi S.** (July 2018). A Feature Selection Method Based on Shapley
 Value to False Alarm Reduction in ICUs, A Genetic-Algorithm Approach, 40th Annual International
 Conference of the IEEE Engineering in Medicine and Biology Society (EMBC’18). [[link](https://ieeexplore.ieee.org/document/8512266)] <br />
 * **Mousavi S. S.**, Schukat, M. & Howley, E. (2017). Traffic Light Control Using Deep Reinforcement
 Learning Agent. NUIG UL 7th Postgraduate Research Day 2017. [[link](https://www.researchgate.net/profile/Sajad_Mousavi6/publication/332220597_Traffic_Light_Control_Using_Deep_Reinforcement_Learning_Agent/links/5ca6ca5c92851c64bd50bd45/Traffic-Light-Control-Using-Deep-Reinforcement-Learning-Agent.pdf)] <br />
-**Mousavi S. S.**, Schukat, M., Howley, E., & Mannion, P. (2017). Applying Q(λ)-learning in Deep
+* **Mousavi S. S.**, Schukat, M., Howley, E., & Mannion, P. (2017). Applying Q(λ)-learning in Deep
 Reinforcement Learning to Play Atari Games. Adaptive Learning Agents (ALA) Workshop at Sixteenth
 International Conference on Autonomous Agents and Multiagent Systems (AAMAS’17). [[link](http://ala2017.it.nuigalway.ie/papers/ALA2017_Mousavi.pdf)] <br />
-**Mousavi S. S.**., Schukat, M. & Howley, E. (2016). Deep Learning Methodologies in Combination with
+* **Mousavi S. S.**., Schukat, M. & Howley, E. (2016). Deep Learning Methodologies in Combination with
 Reinforcement Learning Techniques. NUIG UL 6th Postgraduate Research Day 2016. [[link](https://www.researchgate.net/profile/Sajad_Mousavi6/publication/332220750_Deep_Learning_Methodologies_in_Combination_with_Reinforcement_Learning_Techniques/links/5ca6c8fc92851c64bd50bd17/Deep-Learning-Methodologies-in-Combination-with-Reinforcement-Learning-Techniques.pdf)]<br />
-**Mousavi S. S.**, Schukat, M., Howley, E., Borji, A., & Mozayani, N. (2016). Learning to predict where to
+* **Mousavi S. S.**, Schukat, M., Howley, E., Borji, A., & Mozayani, N. (2016). Learning to predict where to
 look in interactive environments using deep recurrent q-learning. arXiv preprint arXiv:1612.05753. [[link](https://arxiv.org/pdf/1612.05753.pdf)] <br />
-**Mousavi S. S.**, Schukat, M., & Howley, E. (2016, September). Deep reinforcement learning: An
+* **Mousavi S. S.**, Schukat, M., & Howley, E. (2016, September). Deep reinforcement learning: An
 overview. In Proceedings of SAI Intelligent Systems Conference (pp. 426-440). Springer, Cham. [[link](https://arxiv.org/pdf/1806.08894.pdf)] <br />
 
 
