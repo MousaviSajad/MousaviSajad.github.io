@@ -4,10 +4,10 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Alireza Shamsoshoara
+Sajad Mousavi
 
-Wireless Networking and Information Processing (WiNIP) Laboratory, School of Informatics, Computing, and Cyber Systems, Northern Arizona University, Flagstaff, AZ
+[Avillach Lab](https://avillach-lab.hms.harvard.edu/), The Department of Biomedical Informatics at Harvard Medical School
 
-**Address:** #124, SICCS Building, 1295 S Knoles Drive, Flagstaff, AZ 86011
+**Address:** #10 Shattuck St, 4th Floor, Boston, MA 02115
 
-**Email:** [Alireza_Shamsoshoara at nau dot edu](mailto:alireza_shamsoshoara@nau.edu)
+**Email:** [SeyedSajad_Mousavi at hms dot harvard dot edu](mailto:SeyedSajad_Mousavi@hms.harvard.edu)
