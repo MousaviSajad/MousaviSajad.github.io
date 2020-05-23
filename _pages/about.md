@@ -26,7 +26,7 @@ Work Experience
    models for early prediction of life-threatening conditions such as Sepsis and Delirium.<br/>
    Advisor: [Dr. Shamim Nemati](http://nematilab.info/people/shamim/index.html)
    
- * **[FotoNation](https://www.fotonation.com/)**, Galway, Ireland.
+ * **[FotoNation, Inc](https://www.fotonation.com/)**, Galway, Ireland.
    * Research Intern, May 2016 - Sep.2016; May 2017 - Aug. 2017 <br/>
    Machine learning: Worked in deep learning, reinforcement learning, and computer vision fields to design and
    develop algorithms for object detection, face detection/recognition. <br/>
