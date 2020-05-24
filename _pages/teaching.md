@@ -7,7 +7,7 @@ author_profile: true
 Teaching Assistant
 ===========
 * **National University of Ireland, Galway**, Galway, Ireland <br />
-Object Oriented Programming: Data Structures and Algorithms; Computing Architecture &
+Object Oriented Programming; Data Structures and Algorithms; Computing Architecture &
 Operating Systems; Next Generation Technologies II; Java Programming, Oct. 2015 - Aug. 2017
 
 Instructor
