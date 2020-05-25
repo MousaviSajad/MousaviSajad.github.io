@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow in Biomedical Informatics, Harvard Medical School. I work with [Dr. Paul Avillach](https://dbmi.hms.harvard.edu/people/paul-avillach) to apply machine learning-based methods to clinical and genomic datasets to discover subgroups of diseases. I received my Ph. D. in Informatics and Computing from Northern Arizona University under the supervision of [Dr. Fatemeh Afghah](https://profile.directory.nau.edu/person/fa334). My doctoral research focused on developing machine learning and deep learning techniques to detect/predict different medical conditions, especially Atrial Fibrillation (AFib) using physiological signals such as ECG, EEG, APP, and PPG signals. 
+I am a research fellow in Biomedical Informatics, Harvard Medical School. I work with [Dr. Paul Avillach](https://dbmi.hms.harvard.edu/people/paul-avillach) to apply machine learning-based methods to clinical and genomic datasets to discover subgroups of diseases. I received my Ph.D. in Informatics and Computing from Northern Arizona University under the supervision of [Dr. Fatemeh Afghah](https://profile.directory.nau.edu/person/fa334). My doctoral research focused on developing machine learning and deep learning techniques to detect/predict different medical conditions, especially Atrial Fibrillation (AFib) using physiological signals such as ECG, EEG, APP, and PPG signals. 
 
 Education
 ======
