@@ -27,7 +27,7 @@ Work Experience
    Advisor: [Dr. Shamim Nemati](http://nematilab.info/people/shamim/index.html)
    
  * **[FotoNation, Inc](https://www.fotonation.com/)**, Galway, Ireland.
-   * Research Intern, May 2016 - Sep.2016; May 2017 - Aug. 2017 <br/>
+   * Research Intern, May 2016 - Sep. 2016; May 2017 - Aug. 2017 <br/>
    Machine learning: Worked in deep learning, reinforcement learning, and computer vision fields to design and
    develop algorithms for object detection, face detection/recognition. <br/>
    Advisor: [Pawel Filipczuk](https://www.linkedin.com/in/pawe%C5%82-filipczuk-15b4992b) and [Gabriel Costache](https://ie.linkedin.com/in/gabico)  
