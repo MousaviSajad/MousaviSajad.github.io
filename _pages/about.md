@@ -21,13 +21,13 @@ Education
 Work Experience
 ======
 * **UC San Diego Health, Dept. of Biomedical Informatics**, San Diego, CA, USA.
-  * Research Intern: Bioinformatics Programmer II, June 2019 - Aug. 2019 <br/>
+  * Bioinformatics Programmer II, June 2019 - Aug. 2019 <br/>
    Time series analysis and Machine learning: Worked on the design and development of machine learning
    models for early prediction of life-threatening conditions such as Sepsis and Delirium.<br/>
    Advisor: [Dr. Shamim Nemati](http://nematilab.info/people/shamim/index.html)
    
  * **[FotoNation, Inc](https://www.fotonation.com/)**, Galway, Ireland.
-   * Research Intern, May 2016 - Sep. 2016; May 2017 - Aug. 2017 <br/>
+   * Research Assistant, May 2016 - Sep. 2016; May 2017 - Aug. 2017 <br/>
    Machine learning: Worked in deep learning, reinforcement learning, and computer vision fields to design and
    develop algorithms for object detection, face detection/recognition. <br/>
    Advisor: [Pawel Filipczuk](https://www.linkedin.com/in/pawe%C5%82-filipczuk-15b4992b) and [Gabriel Costache](https://ie.linkedin.com/in/gabico)  
